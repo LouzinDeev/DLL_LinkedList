@@ -1,0 +1,4 @@
+LIBRARY "LinkedList"
+EXPORTS
+	addValue
+	printList
